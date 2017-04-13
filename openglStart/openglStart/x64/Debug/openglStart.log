@@ -1,0 +1,6 @@
+﻿  shader_utils.cpp
+  main.cpp
+f:\opengl\opengl_selflearn\openglstart\openglstart\main.cpp(263): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  openglStart.vcxproj -> F:\OpenGL\OpenGL_SelfLearn\openglStart\x64\Debug\openglStart.exe
+  openglStart.vcxproj -> F:\OpenGL\OpenGL_SelfLearn\openglStart\x64\Debug\openglStart.pdb (Partial PDB)
