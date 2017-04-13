@@ -1,0 +1,15 @@
+glut, glfw, glm, OpenGL32
+SDL2, SDL_image
+
+
+set the directories of:
+	VC directories: include and library
+	C++: include
+	linker: lib
+
+set the lib:(copy the name of the lib)
+	linker -> input
+
+copy the dll files to system32 or the runtime directory of the program
+
+Version(x86 or x64) is very important
